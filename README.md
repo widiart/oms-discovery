@@ -10,8 +10,8 @@ _Follow these steps to install and run the Laravel project:_
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/github_username/repo_name.git
-    cd repo_name
+    git clone https://github.com/widiart/oms-discovery.git
+    cd oms-discovery
     ```
 2. Install PHP dependencies using Composer
     ```sh
