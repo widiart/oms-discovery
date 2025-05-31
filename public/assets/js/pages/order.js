@@ -148,7 +148,7 @@ $(document).ready(function() {
                 }
             }
         ],
-        order: [[0, 'desc']]
+        order: [[6, 'desc']]
     });
 
     new AutoNumeric('#order-total', {
