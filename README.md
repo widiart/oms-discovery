@@ -29,7 +29,7 @@ _Follow these steps to install and run the Laravel project:_
 
 6. Run database migrations and seeders
     ```sh
-    php artisan migrate --seed
+    php artisan migrate:fresh --seed
     ```
 7. Serve the application
     ```sh
