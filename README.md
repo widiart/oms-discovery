@@ -36,3 +36,11 @@ _Follow these steps to install and run the Laravel project:_
     php artisan serve
     ```
 8. Access the app at [http://localhost:8000](http://localhost:8000)
+
+9. Username Admin
+    username: admin@mail.test
+    password: password
+   
+10. Username Staff
+    username: staff@mail.test
+    password: password
